@@ -1,0 +1,59 @@
+.coachtech{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 20px;
+    margin-bottom: 550px;
+    color: #3148cd;
+}
+
+
+.coachtech__logo {
+    font-size: 30px;
+}
+
+ul {
+    display: flex;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.coachtech__link--botan1 {
+    margin-right: 20px;
+}
+
+.coachtech__link--botan2 {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.coachtech__link--botan3 {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.coachtech__link--botan4 {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.smail__title {
+    font-size: 70px;
+    font-weight: lighter;
+}
+
+.smail__box {
+    position:relative;
+    height: 200px;
+    width: 70%;
+    background: #1c22e1;
+}
+
+.smail__img {
+    position: absolute;
+    bottom: 50%;
+    left: 70%;
+}
