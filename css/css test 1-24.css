@@ -86,3 +86,31 @@ z-index: 0;
     bottom: 50%;
     right: 0%;
 }
+
+@media screen and (max-width: 1250px) {
+
+    .smail__title {
+            font-size: 45px;
+            margin-top: 450px;
+        }
+
+    .smail__box--img {
+            position: absolute;
+            width: 600px;
+            height: 400px;
+            bottom: 50%;
+            right: 0%;
+        }
+
+    .smail__box--box1 {
+            height: 150px;
+            width: 70%;
+            background: #1c22e1;
+        }
+
+    .smail__box--box2 {
+            position: relative;
+            height: 150px;
+            width: 30%;
+        }
+}
